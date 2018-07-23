@@ -1,5 +1,3 @@
-# These keys are not valid. Use your own API keys
-
 consumer_key = "mFd3RgJC68pRJkvx9KDaUCONu"
 consumer_secret = "1g8H54ctPqNgAreS8rZblmGygTUHk1JR7jqwcK7VSNvjQ9PrfC"
 access_token = "1004891522523807744-ikGO5kQ6Ycqp5Pvoufm2zGrZhT9zqG"
